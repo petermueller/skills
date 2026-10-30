@@ -1,0 +1,14 @@
+{
+  "name": "peter-plugins",
+  "owner": { "name": "Peter Mueller" },
+  "metadata": {
+    "description": "Personal Claude Code plugins: slash commands, skills, agents, hooks and mods."
+  },
+  "plugins": [
+    {
+      "name": "wat",
+      "source": "./claude-plugins/wat",
+      "description": "/wat: restate the last reply in plain ASD-STE100 Simplified Technical English."
+    }
+  ]
+}
