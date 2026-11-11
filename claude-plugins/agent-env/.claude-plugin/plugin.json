@@ -1,0 +1,6 @@
+{
+  "name": "agent-env",
+  "version": "0.1.0",
+  "description": "Give the agent's shell the project's mise toolchain and gh-backed GitHub auth, flag unfetched Mix deps, and mix-format edited Elixir files.",
+  "author": { "name": "Peter Mueller" }
+}

@@ -9,6 +9,11 @@
       "name": "wat",
       "source": "./claude-plugins/wat",
       "description": "/wat: restate the last reply in plain ASD-STE100 Simplified Technical English."
+    },
+    {
+      "name": "agent-env",
+      "source": "./claude-plugins/agent-env",
+      "description": "Give the agent's shell the project's mise toolchain and gh-backed GitHub auth, flag unfetched Mix deps, and mix-format edited Elixir files."
     }
   ]
 }
