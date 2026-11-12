@@ -14,6 +14,11 @@
       "name": "agent-env",
       "source": "./claude-plugins/agent-env",
       "description": "Give the agent's shell the project's mise toolchain and gh-backed GitHub auth, flag unfetched Mix deps, and mix-format edited Elixir files."
+    },
+    {
+      "name": "worktree-cleanup",
+      "source": "./claude-plugins/worktree-cleanup",
+      "description": "Mod: a band above the prompt in git worktree sessions with a button that runs the project's teardown and removes the worktree, with no model turn."
     }
   ]
 }

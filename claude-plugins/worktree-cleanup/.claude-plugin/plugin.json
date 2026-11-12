@@ -1,0 +1,6 @@
+{
+  "name": "worktree-cleanup",
+  "version": "0.1.0",
+  "description": "A band above the prompt in git worktree sessions with a button that tears the worktree down, with no model turn.",
+  "types": "./types/index.d.ts"
+}
